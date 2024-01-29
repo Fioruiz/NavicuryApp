@@ -1,0 +1,12 @@
+com.example.navicuryapp-jetified-window-1.0.0-beta04-0 C:\Users\Stephanie\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.navicuryapp-jetified-annotation-experimental-1.1.0-1 C:\Users\Stephanie\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.navicuryapp-core-1.6.0-2 C:\Users\Stephanie\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.navicuryapp-jetified-window-java-1.0.0-beta04-3 C:\Users\Stephanie\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.navicuryapp-debug-4 D:\FLUTTER\NavicuryApp\navicuryapp\android\app\src\debug\res
+com.example.navicuryapp-main-5 D:\FLUTTER\NavicuryApp\navicuryapp\android\app\src\main\res
+com.example.navicuryapp-pngs-6 D:\FLUTTER\NavicuryApp\navicuryapp\build\app\generated\res\pngs\debug
+com.example.navicuryapp-resValues-7 D:\FLUTTER\NavicuryApp\navicuryapp\build\app\generated\res\resValues\debug
+com.example.navicuryapp-rs-8 D:\FLUTTER\NavicuryApp\navicuryapp\build\app\generated\res\rs\debug
+com.example.navicuryapp-mergeDebugResources-9 D:\FLUTTER\NavicuryApp\navicuryapp\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.navicuryapp-mergeDebugResources-10 D:\FLUTTER\NavicuryApp\navicuryapp\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.navicuryapp-merged_res-11 D:\FLUTTER\NavicuryApp\navicuryapp\build\app\intermediates\merged_res\debug
